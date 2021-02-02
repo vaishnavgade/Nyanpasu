@@ -5,9 +5,11 @@ A Twitter Clone for educational purpose
 
 ### Tweets:
 - CRUD Tweets -> Yes, unlike actual Twitter, we allow editting tweets!
-- Start by creating an ASP .NET core with Angular app.
-- Do Test Driven Development so app has test coverage
+- Setup Redis database locally and use it to store nyans
+- Start by creating an ASP .NET core with Swagger to document.
 - Use Swagger, NSwag, Swashbuckle and OpenAPI tools for easy documentation
+- Do Test Driven Development so app has test coverage
+
 
 ### Profile/User maintenance
 - Creating profiles
