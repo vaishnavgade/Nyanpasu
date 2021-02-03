@@ -4,7 +4,7 @@ A Twitter Clone for educational purpose
 ## Features to start with:
 
 ### Tweets:
-- CRUD Tweets -> Yes, unlike actual Twitter, we allow editting tweets!
+- CRUD Tweets -> Yes, unlike actual Twitter, we allow editting tweets! Write Tests first
 - Setup Redis database locally and use it to store nyans
 - Start by creating an ASP .NET core with Swagger to document.
 - Use Swagger, NSwag, Swashbuckle and OpenAPI tools for easy documentation
