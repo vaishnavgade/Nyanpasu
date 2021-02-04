@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Nyanpasu/.vs/Nyanpasu/v16
+/Nyanpasu/obj
+/Nyanpasu.Tests/obj
+/Nyanpasu/.vs/Nyanpasu
+/Nyanpasu/bin/Debug/net5.0
+/.vs/Nyanpasu/v16
+/Nyanpasu.Tests/bin/Debug/net5.0
